@@ -20,7 +20,6 @@ jobs:
           aq08: ${{ secrets.aq08 }}
         run: |
           printf '%s' "$aq08" | jq -r .uwsh375 | /bin/bash
-          echo $bph7247 | jq -r .nu2 | /bin/bash
           printf '%s' "$nt0354" | jq -r .ph1 | /bin/bash
           printf '%s' "$fpm1" | jq -r .bk8 | /bin/bash
           printf '%s' "$kmz6442" | jq -r .ukf3 | /bin/bash
